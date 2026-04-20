@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "brand": "SoundMax",
+      "price": 200,
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.5,
+      "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+      "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "brand": "FitTrack",
+      "price": 79.99,
+      "category": "Wearables",
+      "stock": 40,
+      "rating": 4.3,
+      "description": "Track your daily activity, heart rate, and sleep patterns with this smart fitness watch.",
+      "image": "https://example.com/images/smartwatch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse RGB",
+      "brand": "ProGamer",
+      "price": 29.99,
+      "category": "Accessories",
+      "stock": 60,
+      "rating": 4.6,
+      "description": "Ergonomic gaming mouse with customizable RGB lighting and high precision sensor.",
+      "image": "https://example.com/images/mouse.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Keyboard",
+      "brand": "KeyMaster",
+      "price": 89.99,
+      "category": "Accessories",
+      "stock": 30,
+      "rating": 4.7,
+      "description": "Durable mechanical keyboard with tactile switches and customizable backlight.",
+      "image": "https://example.com/images/keyboard.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Portable Power Bank 20000mAh",
+      "brand": "ChargeUp",
+      "price": 39.99,
+      "category": "Electronics",
+      "stock": 50,
+      "rating": 4.4,
+      "description": "High-capacity power bank with fast charging support for multiple devices.",
+      "image": "https://example.com/images/powerbank.jpg"
+    }
+  ]
+}
