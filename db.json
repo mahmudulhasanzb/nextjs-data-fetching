@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Bluetooth Headphones",
+      "name": "somthing Bluetooth Headphones",
       "brand": "SoundMax",
-      "price": 200,
+      "price": 133,
       "category": "Electronics",
       "stock": 25,
       "rating": 4.5,
