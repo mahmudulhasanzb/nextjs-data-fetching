@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "somthing Bluetooth Headphones",
+      "name": "wearless Bluetooth Headphones",
       "brand": "SoundMax",
       "price": 133,
       "category": "Electronics",
@@ -54,6 +54,68 @@
       "rating": 4.4,
       "description": "High-capacity power bank with fast charging support for multiple devices.",
       "image": "https://example.com/images/powerbank.jpg"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "price": 15.99,
+      "rating": 4.8,
+      "stock": 20,
+      "published_year": 2018,
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "cover": "https://example.com/images/atomic-habits.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": 12.5,
+      "rating": 4.7,
+      "stock": 35,
+      "published_year": 1988,
+      "description": "A philosophical novel about following your dreams and listening to your heart.",
+      "cover": "https://example.com/images/the-alchemist.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "price": 32.99,
+      "rating": 4.6,
+      "stock": 15,
+      "published_year": 2008,
+      "description": "A handbook of agile software craftsmanship and writing maintainable code.",
+      "cover": "https://example.com/images/clean-code.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "genre": "Finance",
+      "price": 14.99,
+      "rating": 4.5,
+      "stock": 25,
+      "published_year": 1997,
+      "description": "Lessons on money, investing, and financial independence.",
+      "cover": "https://example.com/images/rich-dad-poor-dad.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "genre": "Programming",
+      "price": 35.0,
+      "rating": 4.9,
+      "stock": 10,
+      "published_year": 1999,
+      "description": "Classic book covering essential practices for modern software developers.",
+      "cover": "https://example.com/images/pragmatic-programmer.jpg"
     }
   ]
 }
